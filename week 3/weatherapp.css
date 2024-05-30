@@ -1,0 +1,41 @@
+body {
+  background: #f9f7fe;
+  font-family: "Roboto", sans-serif;
+}
+
+.weather-app {
+  border: 2px solid pink;
+  padding: 30px;
+  border-radius: 10px;
+  width: 500px;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.search-input {
+  border: 2px solid #e6e9ec;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px;
+}
+.search-button {
+  background-color: #007bff;
+  width: 90px;
+  padding: 8px;
+  border-radius: 5px;
+  margin-left: 20px;
+  border: 2px solid #007bff;
+}
+.current-city {
+  color: #7c7c7c;
+}
+.current-temperature {
+  font-size: 3em;
+}
+.link {
+  color: rgb(193, 44, 133);
+  text-decoration: none;
+}
+.link:hover {
+  color: rgb(88, 151, 203);
+  text-decoration: none;
+}
